@@ -49,7 +49,7 @@ An interactive Excel dashboard built to analyze sales performance and turn raw d
 
 ## Dashboard Preview
 
-(Add image in next step)
+![Dashboard Preview](Screenshot%202026-04-27%20191623.png)
 
 ---
 
